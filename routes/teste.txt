@@ -1,0 +1,43 @@
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|012009||415.0000|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|012009||1200.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|012009||879.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|012009||686.2800|SECRETARIA DE EDUCAÇÃO
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|022009||465.0000|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|022009||1200.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|022009||1229.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|022009||576.4700|SECRETARIA DE EDUCAÇÃO
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|032009||465.0000|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|032009||1200.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|032009||1929.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|032009||576.4700|SECRETARIA DE EDUCAÇÃO
+201212|Prefeitura Municipal de Sumé|TECNICO DE ENFERMAGEM (C)|Contratação por excepcional interesse público|W+W307644WZ|032009||350.0000|SECRETARIA DE SAÚDE (FMS)
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|042009||465.0000|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|042009||1200.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|042009||1229.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|042009||576.4700|SECRETARIA DE EDUCAÇÃO
+201212|Prefeitura Municipal de Sumé|TECNICO DE ENFERMAGEM (C)|Contratação por excepcional interesse público|W+W307644WZ|042009||350.0000|SECRETARIA DE SAÚDE (FMS)
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|052009||465.0000|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|052009||1200.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|052009||1929.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|052009||576.4700|SECRETARIA DE EDUCAÇÃO
+201212|Prefeitura Municipal de Sumé|TECNICO DE ENFERMAGEM (C)|Contratação por excepcional interesse público|W+W307644WZ|052009||350.0000|SECRETARIA DE SAÚDE (FMS)
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|062009||465.0000|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|062009||1800.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|062009||1229.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|062009||576.4700|SECRETARIA DE EDUCAÇÃO
+201212|Prefeitura Municipal de Sumé|TECNICO DE ENFERMAGEM (C)|Contratação por excepcional interesse público|W+W307644WZ|062009||450.0000|SECRETARIA DE SAÚDE (FMS)
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|072009||490.6600|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|072009||1200.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|072009||879.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|072009||576.4700|SECRETARIA DE EDUCAÇÃO
+201212|Prefeitura Municipal de Sumé|TECNICO DE ENFERMAGEM (C)|Contratação por excepcional interesse público|W+W307644WZ|072009||350.0000|SECRETARIA DE SAÚDE (FMS)
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|082009||465.0000|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|082009||1200.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|082009||879.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|082009||1045.8600|SECRETARIA DE EDUCAÇÃO
+201073|Prefeitura Municipal de Desterro|MONITOR DO PETI|Efetivo|XWV365814##|082009||465.0000|SECRETARIA DE AÇÃO SOCIAL
+201212|Prefeitura Municipal de Sumé|TECNICO DE ENFERMAGEM (C)|Contratação por excepcional interesse público|W+W307644WZ|082009||350.0000|SECRETARIA DE SAÚDE (FMS)
+101075|Câmara Municipal de Dona Inês|Assessor Parlamentar|Comissionado|*WV725077XX|092009||465.0000|CAMARA MUNICIPAL DE DONA INES
+101163|Câmara Municipal de Rio Tinto|CHEFE DE GABINETE|Comissionado|+VW160634*X|092009||1200.0000|
+201032|Prefeitura Municipal de Bom Sucesso|PROFESSOR P2|Efetivo|**X511294Y+|092009||1579.6700|SEC.MUN. DE OBRAS,TRANSP,. E SERV. URBANOS
+201035|Prefeitura Municipal de Borborema|PROFESSOR A-III|Efetivo|**Z294904VY|092009||1045.8600|SECRETARIA DE EDUCAÇÃO

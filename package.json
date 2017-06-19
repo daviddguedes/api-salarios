@@ -1,0 +1,32 @@
+{
+  "name": "salarios-api",
+  "version": "1.4.0",
+  "description": "Api salários",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daviddguedes/api-salarios"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "~4.11.x",
+    "kerberos": "~0.0.x",
+    "line-reader": "^0.4.0",
+    "mongoose": "^4.10.6",
+    "morgan": "^1.8.2",
+    "parse": "~1.8.0",
+    "parse-dashboard": "^1.0.28",
+    "parse-server": "*",
+    "request-promise": "^4.2.1",
+    "serve-favicon": "^2.4.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=4.3"
+  }
+}
